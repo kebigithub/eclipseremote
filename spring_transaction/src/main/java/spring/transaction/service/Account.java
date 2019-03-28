@@ -1,5 +1,5 @@
 package spring.transaction.service;
-//111111sssss
+//111111
 
 public interface Account {
 
